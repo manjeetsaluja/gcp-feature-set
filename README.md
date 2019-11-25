@@ -19,8 +19,8 @@
 	* Cloud CDN
 
 ## VPC
-   VPC is global, scalable nad flexible
-   VPC provides networking functionality to -
-    ** Compute engine VM instance
-	** Kubernetes Engine container
-	** App Engine Flex
+    * VPC is global, scalable and flexible
+	* VPC provides networking functionality to -
+     Compute engine VM instance
+	 Kubernetes Engine container
+	 App Engine Flex
